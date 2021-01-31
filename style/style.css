@@ -2,8 +2,7 @@
 .wrapper{
     display: flex;
     justify-content: space-around ;
-    align-items: ;
-    background-color: #14213D; 
+    
 }
 
 .navbar-ul{
@@ -11,7 +10,7 @@
 }
 .list-flex{ 
    
-    color: #E5E5E5;
+    color: #707070;
     padding: 30px 30px 30px 30px;
 }
 .navbar-li{
@@ -49,4 +48,17 @@
     background-size: cover;
     background-position:center bottom;
 
+}
+.search{
+    font-size: 30px;
+    color: #707070;
+    margin-top: 30px;
+}
+main{
+    
+    width: 1227px;
+    margin: 0 auto;
+}
+main img{
+    width: 1227px;;
 }
