@@ -62,3 +62,46 @@ main{
 main img{
     width: 1227px;;
 }
+section{
+    width: 1227px;
+    margin: 30px auto;
+}
+.flex{
+    display: flex;
+}
+.flex img{
+    width:400px;
+}
+.flex h3{
+    font-size: 20px;
+    color: #707070;
+}
+.title{
+    color:#707070;
+    font-size: 25px;
+    padding: 10px;
+}
+.more{
+    color:#707070;
+    font-size: 24x;
+    display: flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    padding: 20px 10px;
+}
+.first-p{
+    color:#707070;
+    font-size: 15px;
+    padding: 10px  2px;
+}
+.load-more{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: #707070;
+    font-size: 20px;
+}
+.first-box{
+    margin:5px;
+    box-shadow: 10px 10px 10px #707070;
+}
