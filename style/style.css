@@ -105,3 +105,20 @@ section{
     margin:5px;
     box-shadow: 10px 10px 10px #707070;
 }
+footer{
+    width: 100%;
+    margin: 0px auto;
+    background-color: #2E2E2E;
+}
+.footer-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-p{
+    color:#F2F2F2;
+    padding-top: 30px;
+}
+.web-icons{
+    font-size: 36px;
+    margin-top: 30px;
+}
